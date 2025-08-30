@@ -1,4 +1,4 @@
-Shamir Secret Reconstruction
+## Shamir Secret Reconstruction
 
 Reconstruct the secret from shared points using Shamir-style polynomial interpolation. Given n shares (x, y) with mixed bases for y, and a threshold k = m + 1 (m is degree), the task is:
 - Parse JSON shares.
